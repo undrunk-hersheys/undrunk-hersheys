@@ -1,6 +1,6 @@
-## undrunk_hersheys
-Github
-major in Automotive Engineering, Automotive-Computer convergence Engineering
+## undrunk_hersheys' Github
+
+Major in Automotive Engineering, Automotive-Computer convergence Engineering
 
 
 <!--
